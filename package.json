@@ -1,8 +1,9 @@
 {
   "name": "paseo-vastai",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shows your Vast.ai GPU instances, hourly cost, and credit in the Paseo sidebar, with stop and destroy controls.",
+  "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Frostbyrne/paseo-vastai.git"
@@ -17,7 +18,9 @@
     "index.server.tsx",
     "client/",
     "server/",
-    "shared/"
+    "shared/",
+    "media/",
+    "LICENSE"
   ],
   "scripts": {
     "typecheck": "tsc --noEmit"
