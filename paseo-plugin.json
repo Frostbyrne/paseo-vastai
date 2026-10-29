@@ -1,0 +1,9 @@
+{
+  "id": "paseo-vastai",
+  "name": "Vast.ai instances",
+  "description": "Shows your Vast.ai GPU instances, hourly cost, and credit in the Paseo sidebar, with stop and destroy controls.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.13.2"
+  }
+}
